@@ -2,3 +2,27 @@ body{
     margin: 0px;
     padding: 0px;
 }
+/* --------------header-banner-style-start-------------------- */
+.header-banner{
+    background-image: url(images/banner.png);
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.header-banner-title{
+    padding: 140px 100px;
+}
+.header-banner-title h1{
+    font-size: 74px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.header-banner-title p{
+    margin-bottom: 31px;
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    font-size: 17px;
+}
+/* --------------header-banner-style-End-------------------- */
