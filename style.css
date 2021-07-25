@@ -299,3 +299,33 @@ body{
     color: #7b7171;
 }
 /*-------- footer-section---style-End------------- */
+
+/* ---------------------media-quries--------------- */
+/*-------------------- -mobile-device-start------------ */
+@media only screen and (max-width:688px) {
+    .header-banner{
+        width: 100%;
+    }
+    .header-banner-title h1 {
+        font-size: 54px;
+        margin-bottom: 20px;
+    }
+    .header-banner-title {
+        padding-top: 73px;
+        padding-left: 15px;
+    }
+    .financial-part1 {
+        width: 100%;
+      
+    }
+    .finacncial-img img{
+        width: 100%;
+    }
+    .contact {
+        width: 100%;
+    }
+    .footer-link ul{
+        padding: 0;
+    }
+}
+/*-------------------- -mobile-device-End------------ */
