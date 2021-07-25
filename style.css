@@ -12,7 +12,8 @@ body{
     width: 100%;
 }
 .header-banner-title{
-    padding: 140px 100px;
+    padding-top: 170px;
+    padding-left: 100px;
 }
 .header-banner-title h1{
     font-size: 74px;
@@ -24,5 +25,277 @@ body{
     font-weight: 500;
     letter-spacing: 0.6px;
     font-size: 17px;
+    padding-right: 50px;
+}
+.play{
+    background-color: #1D263A;
+    padding: 30px 0px;
+    margin-bottom: 150px;
 }
 /* --------------header-banner-style-End-------------------- */
+
+/* --------------solution--style-start-------------------- */
+.solution{
+    margin-bottom: 150px;
+}
+.section-title{
+    color: #213053;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+.shape{
+    transition: 0.6s ease-in;
+    border-radius: 10px;
+}
+.shape:hover{
+    box-shadow: 8px 23px 38px #a09c9c;
+}
+.solution-shape h4{
+    font-weight: 700;
+    letter-spacing: 0.6px;
+    color: #213053;
+    margin-bottom: 30px;
+}
+.solution-icon{
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #FF794D;
+}
+.solution-shape p{
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    line-height: 30px;
+    font-size: 17px;
+}
+/* --------------Solution--style-End-------------------- */
+
+/* --------------Exclusive--style-Start-------------------- */
+.Exclusivess{
+    background-color: #FF794D;
+    margin-bottom: 200px;
+    border-radius: 30px;
+    box-shadow: 20px 20px 40px #ff7a4da9;
+    transition: 0.5s linear;
+}
+.Exclusivess:hover{
+    box-shadow: none;
+}
+#Exclusive{
+    padding:50px 25px;
+}
+.exclusive-1 h1{
+    color: #fff;
+    font-weight: 900;
+    font-size: 55px;
+    margin-left: 15px;
+}
+.exclusive-1 h4{
+    margin-left: 25px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 400;
+    letter-spacing: 0.6px;
+    font-size: 28px;
+}
+/* --------------Exclusive--style-End-------------------- */
+
+/* --------------financial--style-Start-------------------- */
+.financial{
+    margin-bottom: 150px;
+}
+.financial-part1{
+    width: 429px;
+    box-shadow: 4px 8px 44px rgb(214 208 208);
+    border-radius: 15px;
+    padding-bottom: 30px;
+}
+.fincial-part12 h2{
+    margin: 35px 27px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #1D263A;
+}
+.fincial-part12 p{
+    padding: 0px 26px;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #676363;
+    line-height: 31px;
+}
+.financial-button{
+    margin-left: 22px;
+    margin-top: 15px;
+    background-color: #20BFA9;
+    padding: 12px 90px;
+    font-weight: 500;
+    border-radius: 50px;
+}
+.financial-part2 h1{
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 65px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+}
+.financial-part2 p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #868585;
+    letter-spacing: 0.5px;
+    margin-bottom: 55px;
+}
+.financial-part21 ul{
+    list-style: none;
+}
+.financial-part21 ul li{
+    padding: 10px 0px;
+    font-size: 22px;
+}
+.cheak-icon{
+    font-size: 10px;
+    padding: 7px 8px;
+    background-color: #D6EBE4;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+/* --------------financial--style-End-------------------- */
+
+/* --------------plan--style-start-------------------- */
+.plan{
+    margin-bottom: 200px;
+}
+.plan-service1 h1{
+    font-size: 55px;
+    color: #213053;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.plan-service1 p{
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    color: #616060;
+}
+.plan-img{
+    overflow: hidden;
+}
+.plan-img img{
+    transition: 0.6s ease-in;
+}
+.plan-img img:hover{
+    transform: scale(1.1);
+}
+/* --------------plan--style-End-------------------- */
+
+/* --------------Problem--style-start-------------------- */
+.problem{
+    margin-bottom: 150px;
+}
+#problems{
+    border-radius: 15px;
+    transition: 0.6s ease-in;
+}
+#problems:hover{
+    box-shadow: 8px 23px 38px #a09c9c;
+}
+.problems-img{
+    padding: 15px;
+}
+.problems-img img{
+    border-radius: 15px;
+}
+
+.problem-title{
+    font-size: 28px;
+    color: #1D263A;
+}
+.problem-text{
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    margin-left: 15px;
+    margin-top: 15px;
+    line-height: 25px;
+    color: #4a4747;
+}
+.problem-info{
+    margin-left: 30px;
+}
+
+/* --------------problem--style-End-------------------- */
+
+/* --------------contact--style-start-------------------- */
+.contact{
+    margin-bottom: 100px;
+    background-color: #213053;
+    padding-bottom: 70px;
+}
+.contact-heading{
+ padding-top: 130px;
+}
+.contact-heading h1{
+    color: #fff;
+    font-size: 52px;
+    font-weight: 800;
+    letter-spacing: 0.8px;
+    margin-bottom: 30px;
+}
+.contact-heading p{
+    color: #e4e1e1;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+}
+.contact-details{
+    padding-top: 295px;
+}
+.contact-details ul{
+    list-style: none;
+}
+.contact-details ul li{
+    color: #fff;
+    padding: 10px 0px;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.6px;
+}
+#contact-icon{
+    color: black;
+    background-color: #20BFA9;
+}
+.form{
+    margin-top: 160px;
+    background-color: #fff;
+    padding: 40px 44px;
+    border-radius: 15px;
+}
+.contact-title{
+    font-weight: 700;
+    font-size: 17px;
+    color: #403f3f;
+}
+/* --------------contact--style-End-------------------- */
+
+/*-------- footer-section---style-start------------- */
+.footer-link ul{
+    list-style: none;
+}
+.footer-link h5{
+    color: rgb(110, 99, 99);
+    margin-bottom: 40px;
+}
+.footer-link ul li{
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 17px;
+    color: rgb(80, 77, 77);
+}
+.footer-title p{
+    margin-top: 50px;
+    margin-right: 100px;
+    font-size: 19px;
+    letter-spacing: 0.8px;
+    font-weight: 500;
+    color: #7b7171;
+}
+/*-------- footer-section---style-End------------- */
